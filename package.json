@@ -1,0 +1,27 @@
+{
+  "name": "react-slate-rich_text_editor",
+  "version": "1.0.0",
+  "description": "slick and customizable rich text editor with Slate.js and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deni2346kea/React-Slate-rich_text_editor.git"
+  },
+  "keywords": [
+    "Node.js",
+    "React",
+    "Slate.js"
+  ],
+  "author": "Denis Kutnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deni2346kea/React-Slate-rich_text_editor/issues"
+  },
+  "homepage": "https://github.com/deni2346kea/React-Slate-rich_text_editor#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  }
+}
